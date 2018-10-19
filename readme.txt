@@ -8,6 +8,14 @@ License: GPLv2
 
 Zeno Font Resizer Shortcode offers a shortcode for Zeno Font Resizer.
 
+
 == Description ==
 
 Zeno Font Resizer Shortcode offers a shortcode for Zeno Font Resizer.
+
+
+== Usage ==
+
+1. Install the plugin under /wp-content/plugins/
+2. Navigate to Dashboard > Plugins and activate the plugin.
+3. Add the shortcode [zeno_font_resizer] to your content.
